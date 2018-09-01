@@ -8,9 +8,11 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
        Considerando os princípios de conservação de massa e energia entre os níveis de montante e jusante, temos:
        
-       Trabalho específico: Y=(P_1-P_2)/ρ+(u_1^2-u_2^2)/2+g(z_1-z_2 )  [J/kg]
+       Trabalho específico: 
+       ![Teste de legenda de imagem](e1.png)
        
-       Energia hidráulica média disponível: E=QY*(3600) [kWh]
+       Energia hidráulica média disponível:  
+       ![Teste de legenda de imagem](e2.png)
 
   - Determinação da queda do aproveitamento: O grupo 1 deverá considerar uma perda de **1,5 m**, onde cada grupo deverá especificar se a central será de baixa ou de alta queda;
        
