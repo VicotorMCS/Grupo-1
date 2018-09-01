@@ -6,7 +6,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   
   - Modelamento do aproveitamento hidrelétrico. Cada grupo deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. O grupo 1 deverá usar a  altura de cota **de 70 m** para seu aproveitamento hidrelétrico:
        
-       -- Considerando os princípios de conservação de massa e energia entre os níveis de montante e jusante, temos:
+       + Considerando os princípios de conservação de massa e energia entre os níveis de montante e jusante, temos:
        
        Trabalho específico:
        
