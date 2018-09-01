@@ -10,11 +10,11 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
        Trabalho específico: 
        
-       ![Teste de legenda de imagem](e1.png)
+       ![Teste de legenda de imagem](eq1.png)
        
        Energia hidráulica média disponível:  
        
-       ![Teste de legenda de imagem](e2.png)
+       ![Teste de legenda de imagem](eq2.png)
 
   - Determinação da queda do aproveitamento: O grupo 1 deverá considerar uma perda de **1,5 m**, onde cada grupo deverá especificar se a central será de baixa ou de alta queda;
        
