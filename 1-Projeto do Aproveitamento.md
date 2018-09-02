@@ -14,19 +14,19 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
          Energia hidráulica média disponível: 
        
-         ![Teste de legenda de imagem](eq2.png)
+         ![Teste de legenda de imagem](/imagens/eq2.png)
 	
        + Considerando que os reservatórios da montante e jusante estão sob a pressão atmosférica:
          
-         ![Teste de legenda de imagem](eq3.JPG)       
+         ![Teste de legenda de imagem](/imagens/eq3.JPG)       
          
        + Considerando que a velocidade na saída da usina é muito baixa e que velocidade na entrada é muito maior que a velocidade na saída:
 	     
-         ![Teste de legenda de imagem](eq4.JPG)       
+         ![Teste de legenda de imagem](/imagens/eq4.JPG)       
        
        + Considerando que vazão turbinada será dividida em 4 condutos de 6,3 metro de diâmetro. Em cada contudo receberá uma vazão de 71,3 m^3/s, equivalente a ¼ da vazão média de 285,27 m^3/s. Esse arranjo de condutos foi baseando na Usina Hidroelétrica de Barra Grande, a qual possui um vazão semelhante a vazão de estudo do trabalho. Dessa forma pode-se encontrar a velocidade na entrada da turbina:
 
-         ![Teste de legenda de imagem](eq5.JPG)
+         ![Teste de legenda de imagem](/imagens/eq5.JPG)
        
        + Considerando que z2 é a cota zero, z2=0.  
        
@@ -34,18 +34,18 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
          Trabalho específico:
        
-         ![Teste de legenda de imagem](eq6.JPG)
+         ![Teste de legenda de imagem](/imagens/eq6.JPG)
        
          Energia hidráulica média disponível: 
        
-         ![Teste de legenda de imagem](e7.JPG)
+         ![Teste de legenda de imagem](/imagens/e7.JPG)
          
 
   - Determinação da queda do aproveitamento: O grupo 1 deverá considerar uma perda de **1,5 m**, onde cada grupo deverá especificar se a central será de baixa ou de alta queda;
   
        + A queda do aproveitamento pode ser determinada pela equação:
        
-         ![Teste de legenda de imagem](eq.aprov.JPG)
+         ![Teste de legenda de imagem](/imagens/eq.aprov.JPG)
        
          Assim a queda de aproveitamente será obtido pela subtração entre 70 e 1,5 metros. Assim a queda do aproveitamento é de 68,5      	metros.
 
@@ -59,7 +59,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	
 	  Para esta caracterização, o parâmetro adimensional Ka é utilizado. Sua determinação é dado por:
 	
-	  ![Teste de legenda de imagem](eq.ka.JPG)
+	  ![Teste de legenda de imagem](/imagens/eq.ka.JPG)
 	
 	+ Considerações:
 	
@@ -73,13 +73,13 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	  
 	+ A espessura do conduto será estimada pela seguinte equação:
 	
-	  ![Teste de legenda de imagem](emin.JPG)
+	  ![Teste de legenda de imagem](/imagens/emin.JPG)
 	  
 	  Assumindo que o diâmetro do conduto seja de 6,3 metros. Temos que a espessura do conduto mínima é de 17,02 mm.
 	  
 	+ Podemos determinar Vs pela seguinte equação:
 	
-	   ![Teste de legenda de imagem](vs.JPG)
+	   ![Teste de legenda de imagem](/imagens/vs.JPG)
 	   
 	   Resolvendo a equação anterior temos que Vs = 647,745.
 	   
@@ -87,9 +87,9 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	   
 	   Temos que:
 	   
-	  Se ![Teste de legenda de imagem](ka_1.JPG) , alta queda;
+	  Se ![Teste de legenda de imagem](/imagens/ka_1.JPG) , alta queda;
 	  
-	  Se ![Teste de legenda de imagem](ka_2.JPG) , baixa queda;
+	  Se ![Teste de legenda de imagem](/imagens/ka_2.JPG) , baixa queda;
 	  
 	  A queda d'água, no geral, é definida como de alta, baixa ou média altura. O Centro Nacional de Referência em Pequenas Centrais Hidrelétrica (Cerpch, da Universidade Federal de Itajubá - Unifei) considera baixa queda uma altura de até 15 metros e alta queda, superior a 150 metros. Mas não há consenso com relação a essas medidas.
 	  Como o valor encontrado é muito proximo de 1 e a altura bruta é de 70 metros será considerado uma central hidrelétrica de média queda.
@@ -106,15 +106,15 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   
   	+ A potência hidráulica máxima teórica média e a energia máxima teórica média representam o aproveitamento máximo possível para o curso hídrico. Tais grandezas podem ser obtidas pelas seguintes equações:
 	
-	  ![Teste de legenda de imagem](eb1.JPG)
+	  ![Teste de legenda de imagem](/imagens/eb1.JPG)
 	  
-	  ![Teste de legenda de imagem](eb2.JPG)
+	  ![Teste de legenda de imagem](/imagens/eb2.JPG)
   
 	+ Sendo, Qnf a vazão média de longo prazo e Hnf a queda do aproveitamento. Assim, podemos calcular a potência e a energia:
 		
-	  ![Teste de legenda de imagem](eb3.JPG)
+	  ![Teste de legenda de imagem](/imagens/eb3.JPG)
 	  
-	  ![Teste de legenda de imagem](eb4.JPG)
+	  ![Teste de legenda de imagem](/imagens/eb4.JPG)
   
  
   - Análise dos dados de vazão e energia máxima teórica média;
@@ -135,7 +135,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
        Sistema Hidromecânico Equivalente:
        
-       ![Teste de legenda de imagem](she.png "Sistema Hidromecânico Equivalente")
+       ![Teste de legenda de imagem](/imagens/she.png "Sistema Hidromecânico Equivalente")
        
   
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
