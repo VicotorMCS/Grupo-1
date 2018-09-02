@@ -141,6 +141,9 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
 
     - **Cargo e Função**, designando a tarefa de cada membro do grupo;
+    
+   	![Teste de legenda de imagem](https://github.com/VicotorMCS/Grupo-1/blob/master/ART%20atua%C3%A7%C3%A3o.pdf)  
+   
     - **Atuação**, designando os projetos a serem executados para a construção da usina;
     - **Obras e Serviços**, designando quais obras e serviços **relacionados a estudos, serviços e projetos civis** deverão ser executados para a construção da usina;
 
