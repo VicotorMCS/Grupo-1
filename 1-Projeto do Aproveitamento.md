@@ -20,7 +20,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
          
          ![Teste de legenda de imagem](eq3.JPG)       
          
-	     + Considerando que a velocidade na saída da usina é muito baixa e que velocidade na entrada é muito maior que a velocidade na saída:
+       + Considerando que a velocidade na saída da usina é muito baixa e que velocidade na entrada é muito maior que a velocidade na saída:
 	     
          ![Teste de legenda de imagem](eq4.JPG)       
        
