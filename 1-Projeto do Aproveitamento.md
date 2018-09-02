@@ -75,7 +75,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	
 	  ![Teste de legenda de imagem](emin.JPG)
 	  
-	  Assumindo que o diametro do conduto seja de 6,3 metros. Temos que a espessura do conduto mínima é de 17,02 mm.
+	  Assumindo que o diâmetro do conduto seja de 6,3 metros. Temos que a espessura do conduto mínima é de 17,02 mm.
 	  
 	+ Podemos determinar Vs pela seguinte equação:
 	
