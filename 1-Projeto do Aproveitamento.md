@@ -21,6 +21,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
          ![Teste de legenda de imagem](eq3.JPG)       
          
 	     + Considerando que a velocidade na saída da usina é muito baixa e que velocidade na entrada é muito maior que a velocidade na saída:
+	     
          ![Teste de legenda de imagem](eq4.JPG)       
        
        + Considerando que vazão turbinada será dividida em 4 condutos de 6,3 metro de diâmetro. Em cada contudo receberá uma vazão de 71,3 m^3/s, equivalente a ¼ da vazão média de 285,27 m^3/s. Esse arranjo de condutos foi baseando na Usina Hidroelétrica de Barra Grande, a qual possui um vazão semelhante a vazão de estudo do trabalho. Dessa forma pode-se encontrar a velocidade na entrada da turbina:
