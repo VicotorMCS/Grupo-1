@@ -142,9 +142,12 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 
     - **Cargo e Função**, designando a tarefa de cada membro do grupo;
     
-   	![Teste de legenda de imagem](https://github.com/VicotorMCS/Grupo-1/blob/master/ART%20atua%C3%A7%C3%A3o.pdf)  
+	    
    
     - **Atuação**, designando os projetos a serem executados para a construção da usina;
+    
+ 	[ART Atuação](https://github.com/VicotorMCS/Grupo-1/blob/master/ART%20atua%C3%A7%C3%A3o.pdf)
+    
     - **Obras e Serviços**, designando quais obras e serviços **relacionados a estudos, serviços e projetos civis** deverão ser executados para a construção da usina;
 
         Um arquivo de ajuda de preenchimento e um modelo de ART estão disponibilizados neste repositório. **Cada grupo deverá fazer suas ARTs baseado no modelo disponibilizado e fazer o *upload* para este repositório, sem recorrer a arquivos prontos na internet**;
