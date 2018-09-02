@@ -56,6 +56,9 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	  ![Teste de legenda de imagem](eb1.JPG)
 	
 	+ Sendo, Qnf a vazão média de longo prazo e Hnf a queda do aproveitamento. Assim, podemos calcular a potência e a energia:
+	
+	  ![Teste de legenda de imagem](eb2.JPG)
+  
   
   - Análise dos dados de vazão e energia máxima teórica média;
   
