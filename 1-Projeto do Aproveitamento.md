@@ -77,8 +77,10 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   
   - Desenho esquemático do sistema hidromecânico equivalente;
        
+       Sistema Hidromecânico Equivalente:
+       
        ![Teste de legenda de imagem](she.png "Sistema Hidromecânico Equivalente")
-       Sistema Hidromecânico Equivalente
+       
   
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
 
