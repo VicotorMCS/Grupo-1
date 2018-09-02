@@ -76,6 +76,8 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        + Em um projeto de dimensionamento, o melhor procedimento é fazer a potência instalada ficar o mais próximo possível da potência máxima. Como ainda faltam muitos parâmetros a serem dimensionados, a potência instalada será igualada a potência máxima calculada acima.    
   
   - Desenho esquemático do sistema hidromecânico equivalente;
+       
+       ![Teste de legenda de imagem](eq1.png "Sistema Hidromecânico Equivalente")
   
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
 
