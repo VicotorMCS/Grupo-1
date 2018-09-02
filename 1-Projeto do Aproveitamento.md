@@ -51,6 +51,10 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   
   - Cálculo da potência hidráulica máxima teórica média e da energia máxima teórica média;
   
+  	+ A potência hidráulica máxima teórica média e a energia máxima teórica média representam o aproveitamento máximo possível para o curso hídrico. Tais grandezas podem ser obtidas pelas seguintes equações:
+	
+	+ Sendo, Qnf a vazão média de longo prazo e Hnf a queda do aproveitamento. Assim, podemos calcular a potência e a energia:
+  
   - Análise dos dados de vazão e energia máxima teórica média;
   
   - Escolha do tipo de central e o arranjo utilizado;
