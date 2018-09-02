@@ -96,18 +96,47 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	   
 	   
   
-       
-  - Determinação da vazão média de longo tempo baseado nos dados de vazão dados a cada grupo. Cada grupo deverá mostrar como fez este cálculo e as hipóteses adotadas;
+ - Determinação da vazão média de longo tempo baseado nos dados de vazão dados a cada grupo. Cada grupo deverá mostrar como fez este cálculo e as hipóteses adotadas;
+  
+  	+ A vazão média de longo período é a maior vazão possível de ser regularizada em uma bacia. Ela é definida como sendo a média das vazões anuais para toda a série de dados de vazão disponível para a bacia.
+	+ Para realização do estudo foi utilizado uma série de dados de vazão diária da bacia com início em primeiro de janeiro de 1933 e com término em 31 de dezembro de 2013.
+	+ Realizando a média aritmética simples destes valores foi calculado a vazão média de longo período. Considerando que todas as medidas disponíveis estão em metros cúbicos de água por segundo, a vazão média para a bacia é de 285,27 m³/s.
   
   - Cálculo da potência hidráulica máxima teórica média e da energia máxima teórica média;
   
+  	+ A potência hidráulica máxima teórica média e a energia máxima teórica média representam o aproveitamento máximo possível para o curso hídrico. Tais grandezas podem ser obtidas pelas seguintes equações:
+	
+	  ![Teste de legenda de imagem](eb1.JPG)
+	  
+	  ![Teste de legenda de imagem](eb2.JPG)
+  
+	+ Sendo, Qnf a vazão média de longo prazo e Hnf a queda do aproveitamento. Assim, podemos calcular a potência e a energia:
+		
+	  ![Teste de legenda de imagem](eb3.JPG)
+	  
+	  ![Teste de legenda de imagem](eb4.JPG)
+  
+ 
   - Análise dos dados de vazão e energia máxima teórica média;
+  
+       + Da análise dos dados de vazão do curso hídrico percebeu-se que a vazão varia consideravelmente no período atingindo uma valor mínimo de 4 m/s² e um valor máximo de 6912 m/s². Por está razão optou-se por utilizar um reservatório para armazenar o recurso hídrico e normalizar a vazão (torná-la constante e igual a vazão de longo período, regularizá-la). 
+       + Da análise da energia máxima teórica e potência máxima teórica é superior a 30 MW de modo que a usina será classificada como usina hidrelétrica (UHE).
+
   
   - Escolha do tipo de central e o arranjo utilizado;
   
+       + Devido a potência de aproveitamento encontrada anteriormente o tipo de central é Grande Central Hidrelétrica (GCH), neste documento será abordado GCH como sendo sinônimo de UHE. O arranjo definido para esse tipo de central é de represamento para permitir o armazenamento de recurso hídrico e normalizar a vazão.
+  
   - Estimativa da potência instalada;
   
+       + Em um projeto de dimensionamento, o melhor procedimento é fazer a potência instalada ficar o mais próximo possível da potência máxima. Como ainda faltam muitos parâmetros a serem dimensionados, a potência instalada será igualada a potência máxima calculada acima.    
+  
   - Desenho esquemático do sistema hidromecânico equivalente;
+       
+       Sistema Hidromecânico Equivalente:
+       
+       ![Teste de legenda de imagem](she.png "Sistema Hidromecânico Equivalente")
+       
   
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
 
@@ -119,7 +148,6 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
         
 - Projetos que não tiverem todos estes itens respondidos **não serão avaliados!**
 Este projeto deverá ser feito neste arquivo, com o *upload* das respectivas ARTs, até o dia **02/09/2018**. Pedidos de adiamento só serão concedidos em casos excepcionais, a serem decididos pelo professor.
-
 
 
 
