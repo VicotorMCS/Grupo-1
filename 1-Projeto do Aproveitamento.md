@@ -18,7 +18,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	
        + Considerando que os reservatórios da montante e jusante estão sob a pressão atmosférica:
          
-         ![Teste de legenda de imagem](eq3.jpg)       
+         ![Teste de legenda de imagem](eq3.JPG)       
          
 	     + Considerando que a velocidade na saída da usina é muito baixa e que velocidade na entrada é muito maior que a velocidade na saída:
          ![Teste de legenda de imagem](eq4.jpg)       
