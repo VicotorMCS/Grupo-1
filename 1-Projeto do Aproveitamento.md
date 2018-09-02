@@ -68,6 +68,8 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   
   - Escolha do tipo de central e o arranjo utilizado;
   
+       + Devido a potência de aproveitamento encontrada anteriormente o tipo de central é Grande Central Hidrelétrica (GCH), neste documento será abordado GCH como sendo sinônimo de UHE. O arranjo definido para esse tipo de central é de represamento para permitir o armazenamento de recurso hídrico e normalizar a vazão.
+  
   - Estimativa da potência instalada;
   
   - Desenho esquemático do sistema hidromecânico equivalente;
