@@ -29,15 +29,15 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
        + Considerando que z2 é a cota zero, z2=0.  
        
-       De acordo com as considerações acima, temos: 
+         De acordo com as considerações acima, temos: 
        
-       Trabalho específico:
+         Trabalho específico:
        
-       ![Teste de legenda de imagem](eq6.JPG)
+         ![Teste de legenda de imagem](eq6.JPG)
        
-       Energia hidráulica média disponível: 
+         Energia hidráulica média disponível: 
        
-       ![Teste de legenda de imagem](e7.JPG)
+         ![Teste de legenda de imagem](e7.JPG)
          
 
   - Determinação da queda do aproveitamento: O grupo 1 deverá considerar uma perda de **1,5 m**, onde cada grupo deverá especificar se a central será de baixa ou de alta queda;
