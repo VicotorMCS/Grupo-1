@@ -18,14 +18,14 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	
        + Considerando que os reservatórios da montante e jusante estão sob a pressão atmosférica:
          
-         ![Teste de legenda de imagem](eq3.png)       
+         ![Teste de legenda de imagem](eq3.jpg)       
          
 	     + Considerando que a velocidade na saída da usina é muito baixa e que velocidade na entrada é muito maior que a velocidade na saída:
-         ![Teste de legenda de imagem](eq4.png)       
+         ![Teste de legenda de imagem](eq4.jpg)       
        
        + Considerando que vazão turbinada será dividida em 4 condutos de 6,3 metro de diâmetro. Em cada contudo receberá uma vazão de 71,3 m^3/s, equivalente a ¼ da vazão média de 285,27 m^3/s. Esse arranjo de condutos foi baseando na Usina Hidroelétrica de Barra Grande, a qual possui um vazão semelhante a vazão de estudo do trabalho. Dessa forma pode-se encontrar a velocidade na entrada da turbina:
 
-         ![Teste de legenda de imagem](eq5.png)
+         ![Teste de legenda de imagem](eq5.jpg)
        
        + Considerando que z2 é a cota zero, z2=0.  
        
@@ -33,11 +33,11 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
       Trabalho específico:
        
-      ![Teste de legenda de imagem](eq6.png)
+      ![Teste de legenda de imagem](eq6.jpg)
        
       Energia hidráulica média disponível: 
        
-      ![Teste de legenda de imagem](eq7.png)
+      ![Teste de legenda de imagem](eq7.jpg)
          
 
   - Determinação da queda do aproveitamento: O grupo 1 deverá considerar uma perda de **1,5 m**, onde cada grupo deverá especificar se a central será de baixa ou de alta queda;
