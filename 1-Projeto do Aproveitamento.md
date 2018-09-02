@@ -47,7 +47,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
          ![Teste de legenda de imagem](eq.aprov.JPG)
        
-         Assim a queda de aproveitamente será obtido pela subtração entre 70 e 1,5 mestros. Assim a queda do aproveitamento é de 68,5      	metros.
+         Assim a queda de aproveitamente será obtido pela subtração entre 70 e 1,5 metros. Assim a queda do aproveitamento é de 68,5      	metros.
 
 	+ A classificação de baixa e alta queda é vinculada ao comportamento do escoamento em regime transiente, onde se consideram:
 	
