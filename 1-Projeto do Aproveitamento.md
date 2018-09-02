@@ -10,7 +10,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
          Trabalho específico:
        
-         ![Teste de legenda de imagem](eq1.png)
+         ![Teste de legenda de imagem](/imagens/eq1.png)
        
          Energia hidráulica média disponível: 
        
