@@ -61,7 +61,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 	
 	  ![Teste de legenda de imagem](eq.ka.JPG)
 	
-	+ Considerações;
+	+ Considerações:
 	
 	  D=diâmetro do conduto;
 	  
