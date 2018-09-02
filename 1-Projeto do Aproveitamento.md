@@ -8,7 +8,7 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
        
        + Considerando os princípios de conservação de massa e energia entre os níveis de montante e jusante, temos:
        
-        Trabalho específico:
+         Trabalho específico:
        
          ![Teste de legenda de imagem](eq1.png)
        
