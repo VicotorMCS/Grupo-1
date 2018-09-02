@@ -141,8 +141,6 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
 
     - **Cargo e Função**, designando a tarefa de cada membro do grupo;
-    
-	    
    
     - **Atuação**, designando os projetos a serem executados para a construção da usina;
     
