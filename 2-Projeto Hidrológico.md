@@ -12,7 +12,13 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
   
   - Cada grupo deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar de programação, onde a linguagem de programação é de livre escolha do grupo. **O algoritmo programado deverá ser enviado ao repositório via *upload*. Não será permitida a utilização de planilhas excel ou de programas já feitos**. Os seguintes itens deverão ser respondidos neste documento:
   
+      + Para realização da caracterização estatistica dos dados hidrológicos do curso hidrico foram confeccionados uma série de programas no software MatLab de modo a realizar o cálculos das grandezas estipuladas e plotar os gráficos necessários para a análise. Todos os códigos utilizados podem ser encontrados na passta %subirreferênciadapasta%
+  
        - Fluviograma dos dados, dispostos em valores anuais e decenais;
+       
+       Assim como no caso semanal, foram trazados os fluviogramas anuais e decenais que podem ser vistos nas figuras 2 e 3.
+       
+       
        
        - Curva de duração de vazões;
        
