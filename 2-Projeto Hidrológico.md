@@ -182,6 +182,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 
 + Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
       Codigo XXXXXXXX Valores Extremos
+      
+      
 - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
   
   + Vazão Firme 
