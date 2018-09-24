@@ -18,6 +18,15 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        Assim como no caso semanal, foram trazados os fluviogramas anuais e decenais que podem ser vistos nas figuras 2 e 3.
        
+       ![Teste de legenda de imagem](/imagens2/fluviogramaanual.png)
+       
+       Figura 2:fluviograma anual.
+       
+       ![Teste de legenda de imagem](/imagens2/fluviogramadecenal.png)
+       
+       Figura 3:fluviograma decenal
+       
+       + Vale ressaltar que todos os fluviogramas são compostos pelas médias dos valores de vazão nos períodos referentes.
        
        
        - Curva de duração de vazões;
