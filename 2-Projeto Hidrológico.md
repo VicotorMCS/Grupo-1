@@ -196,13 +196,13 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
   
   O valor de vazão mais próximo de 95%, ocorrendo 95,26% das vezes é uma vazão de 22 m^2/s
   
-  +Vazão de projeto
+  + Vazão de projeto
 
   A vazão necessário Qn foi definida no projeto do aproveitamento como sendo 285,27m^3/s. 
   
   Dessa forma nossa vazão de projeto(Qp)  deve ser menor ou igual a vazão vazão média ao longo do tempo(QMLT), de acordo com a condição   abaixo;
 
-  ![Teste de legenda de imagem](/imagens2/fig2.jpg)
+  ![Teste de legenda de imagem](/imagens2/fig2.JPG)
   
   Como a nossa vazão necessária é igual à vazão ao longo do tempo, assumimos como a nossa vazão de projeto a vazão média ao longo do       tempo.
   
