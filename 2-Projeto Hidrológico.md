@@ -52,7 +52,11 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        ![Teste de legenda de imagem](/imagens2/curvadeduracaodepotencias.png)
        Figura 5: Curva de duração de potência.
        
-       - Diagrama de Rippl;      
+       - Diagrama de Rippl;    
+       
+       ![Teste de legenda de imagem](/imagens2/rippl.jpg)
+       
+       Figura XX: Diagrama de Rippl.
        
        - Determinação do período crítico;
        
