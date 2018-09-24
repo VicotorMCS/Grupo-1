@@ -196,6 +196,16 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
   
   O valor de vazão mais próximo de 95%, ocorrendo 95,26% das vezes é uma vazão de 22 m^2/s
   
+  +Vazão de projeto
+
+  A vazão necessário Qn foi definida no projeto do aproveitamento como sendo 285,27m^3/s. 
+  
+  Dessa forma nossa vazão de projeto(Qp)  deve ser menor ou igual a vazão vazão média ao longo do tempo(QMLT), de acordo com a condição   abaixo;
+
+  ![Teste de legenda de imagem](/imagens2/fig2.jpg)
+  
+  Como a nossa vazão necessária é igual à vazão ao longo do tempo, assumimos como a nossa vazão de projeto a vazão média ao longo do       tempo.
+  
 - Cálculo da vazão regularizada: O grupo deverá fazer um cálculo da vazão regularizada baseado nos dados fornecidos de vazão. O método a ser usado é o método de Conti-Varlet. A formulação deste método está disponível no livro-texto do curso (Souza, Z., Santos, A. H. M e Bortoni, E. C.  **Centrais Hidrelétricas: Implantação e Comissionamento**, 2a. Edição, Editora Interciência.). Para este cálculo o grupo deverá:
         
 - Usar o programa disponibilizado pelo livro-texto do curso ou implementar o método em uma linguagem de programação da escolha do grupo. Caso o grupo escolha a segunda alternativa, **o algoritmo programado deverá ser enviado ao repositório via *upload***;
@@ -219,6 +229,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
     + A figira 11 apresenta o fluxograma semanal para a massa de dados com a reta de vazão regular.
     
     ![Teste de legenda de imagem](/imagens2/vazaoregular.png)
+    
     Figura 11: Comparação da vazão regular com o fluxograma semanal.
     
     +Utilizando a regularização de vazão aumentamos a vazão disponível para geração de energia de 22 m³/s (vazão firme que seria usada em uma usina a fio d'água) para 285,3 m³/s o que representa um grande aumento no potêncial de geração de uma usina implantada no local.
