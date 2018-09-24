@@ -88,8 +88,9 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        A partir do gráfico temos que o período umido corresponde aos meses de abril a setembro e o período seco corresponde aos meses de outubro a março.
        
-      Codigo XXXXXXXX [Código  período seco e período úmido]      
-        -  Determinação de valores extremos;
+      Codigo XXXXXXXX [Código  período seco e período úmido]
+      
+      - Determinação de valores extremos;
        
        As vazões máximas e mínimas que ocorrem em um período determinado são denominadas de vazões extremas. A tabela a seguir apresenta as vazões máximas e mínimas registradas em cada ano.
        
