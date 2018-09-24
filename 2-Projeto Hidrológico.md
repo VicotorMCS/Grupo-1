@@ -11,7 +11,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
                                                               Figura 1: Fluvigrama semanal.
                                                               
                                                               
-    [Código Fluviogramas](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/a_mediasVF.m)  
+    Código fluviogramas XXXXXXXXX[Código Fluviogramas]
     
     
   - Cada grupo deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar de programação, onde a linguagem de programação é de livre escolha do grupo. **O algoritmo programado deverá ser enviado ao repositório via *upload*. Não será permitida a utilização de planilhas excel ou de programas já feitos**. Os seguintes itens deverão ser respondidos neste documento:
@@ -33,7 +33,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        + Vale ressaltar que todos os fluviogramas são compostos pelas médias dos valores de vazão nos períodos referentes.
        
-       [Código Fluviogramas](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/a_mediasVF.m)      
+       Código de Fluviograma XXXXXXXXX[Código Fluviogramas]
        
        - Curva de duração de vazões;
        
@@ -42,7 +42,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        ![Teste de legenda de imagem](/imagens2/curvadeduracaodevazoes.png)
        Figura 4: Curva de duração de vazões.
        
-       [Código Curva de duração de vazão](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/cdvVF.m)      
+       Código Curva de Duração de vazão XXXXXXXXXX [Código Curva de duração de vazão]
        
        + Do ponto de vista computacional, o código conta quantas vezes uma vazão ocorreu ou foi superada, em seguida ele transforma este número em uma porcentagem o dividindo pelo número total de vazões disponíveis. Assim, é possível plotar o gráfico com a frequência de ocorrencia percentual no eixo x e a vazão referente no eixo y.
        
@@ -67,7 +67,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        Figura 6: Diagrama de Rippl.
        
-       [Código  Diagrama de Rippl](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/DiagramadeRipplVF.m)
+       Codigo XXXXXXXX Rippl [Código  Diagrama de Rippl]
        
        - Determinação do período crítico;
        
@@ -88,7 +88,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        A partir do gráfico temos que o período umido corresponde aos meses de abril a setembro e o período seco corresponde aos meses de outubro a março.
        
-       [Código  período seco e período úmido](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/periodosecoeumido.m)
+      Codigo XXXXXXXX [Código  período seco e período úmido]
         
        - Determinação de valores extremos;
        
@@ -180,8 +180,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 | 2012 | 2801 | 12 
 | 2013 | 4655 | 28 
 
-Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
-      
++Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
+      Codigo XXXXXXXX Valores Extremos
 - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
   
   + Vazão Firme 
