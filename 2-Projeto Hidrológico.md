@@ -21,7 +21,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
   
        - Fluviograma dos dados, dispostos em valores anuais e decenais;
        
-       Assim como no caso semanal, foram trazados os fluviogramas anuais e decenais que podem ser vistos nas figuras 2 e 3.
+         +Assim como no caso semanal, foram trazados os fluviogramas anuais e decenais que podem ser vistos nas figuras 2 e 3.
        
        ![Teste de legenda de imagem](/imagens2/fluviogramaanual1.png)
        
@@ -59,7 +59,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        ![Teste de legenda de imagem](/imagens2/curvadeduracaodepotencias.png)
        Figura 5: Curva de duração de potência.
        
-       - Diagrama de Rippl;    
+      - Diagrama de Rippl;    
        
        ![Teste de legenda de imagem](/imagens2/rippl.jpg)
        
