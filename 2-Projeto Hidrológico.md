@@ -9,7 +9,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
     
     ![Teste de legenda de imagem](/imagens2/fluviogramasemanal.png)
                                                               Figura 1: Fluvigrama semanal.
-  
+    [Código Fluviogramas](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/a_mediasVF.m)                                                       
   - Cada grupo deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar de programação, onde a linguagem de programação é de livre escolha do grupo. **O algoritmo programado deverá ser enviado ao repositório via *upload*. Não será permitida a utilização de planilhas excel ou de programas já feitos**. Os seguintes itens deverão ser respondidos neste documento:
   
       + Para realização da caracterização estatistica dos dados hidrológicos do curso hidrico foram confeccionados uma série de programas no software MatLab de modo a realizar o cálculos das grandezas estipuladas e plotar os gráficos necessários para a análise. Todos os códigos utilizados podem ser encontrados na passta %subirreferênciadapasta%
@@ -28,7 +28,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        + Vale ressaltar que todos os fluviogramas são compostos pelas médias dos valores de vazão nos períodos referentes.
        
-       
+       [Código Fluviogramas](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/a_mediasVF.m)      
        
        - Curva de duração de vazões;
        
@@ -36,6 +36,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        ![Teste de legenda de imagem](/imagens2/curvadeduracaodevazoes.png)
        Figura 4: Curva de duração de vazões.
+       
+       [Código Curva de duração de vazão](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/cdvVF.m)      
        
        + Do ponto de vista computacional, o código conta quantas vezes uma vazão ocorreu ou foi superada, em seguida ele transforma este número em uma porcentagem o dividindo pelo número total de vazões disponíveis. Assim, é possível plotar o gráfico com a frequência de ocorrencia percentual no eixo x e a vazão referente no eixo y.
        
@@ -56,21 +58,32 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        ![Teste de legenda de imagem](/imagens2/rippl.jpg)
        
+       [Código Curva de duração de potência](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/cdvVF.m)   
+       
        Figura 6: Diagrama de Rippl.
        
        [Código  Diagrama de Rippl](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/DiagramadeRipplVF.m)
        
-      - Determinação do período crítico;
+       - Determinação do período crítico;
        
       + O período crítico foi calculado a partir do diagrama de rippl e corresponde ao período em que o reservatório saiu do maior volume disponível para o menor valor durante toda a série de dados. 
        + O código desenvolvido comparou os valores de volume acumulado na curva de rippl com a curva base traçada (curva de inclinação contante que liga o primeiro valor de volume acumulado ao último) de modo a encontrar os valores mais distantes tanto positivamente (maior volume) quanto negativamente (menor). Tais valores definem o início e o término do período crítico.
+       [Código  Vazão regular](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/vazaoregular.m)
        + Ao executar o programa obteve-se que o período crítico teve início em 06 de março de 1968 e terminou em 03 de janeiro de 2001.
        + Para testar a validade do resultado obtido foi confeccionado outro código, desta vez seguindo o passo a passo exposta na página 91 do livro "Centrais Hidrelétricas, implantação e comissionamento" do zulcy de Souza segunda edição. Tal código obteve a data de início de 12 de março de 1968 e termina em 09 de janeiro de 2001.
+       [Código  Período Crítico](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/periodocritico.m)
        + A diferença observada pode ser explicada , pois o primeiro código realiza todos os cálculos em semanas e depois converte o resultado para uma data específica de modo que pode haver uma pequena variação no dia. Porém os resultados apresentam exatamente o mesmo mês de início e termino de modo a corroborar com sua validade. 
         
        - Determinação de períodos seco e úmido;
        
        Para determinação do período seco e período úmido, foi realizada a média das vazões em cada mês do ano de modo a criar um "ano médio" no qual é possível identificar o período seco e o período úmido. A figura 7 apresenta tal gráfico.
+       
+       ![Teste de legenda de imagem](/imagens2/periodosecoumido.png)
+        Figura 7: Período seco e Período Úmido
+       
+       A partir do gráfico temos que o período umido corresponde aos meses de abril a setembro e o período seco corresponde aos meses de outubro a março.
+       
+       [Código  período seco e período úmido](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/periodosecoeumido.m)
         
        - Determinação de valores extremos;
        
