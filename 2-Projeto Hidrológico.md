@@ -142,6 +142,13 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 | 2011 	| 6507         	| 39           	|
 | 2012 	| 2801         	| 12           	|
 | 2013 	| 4655         	| 28           	|
+
+Alimentos | Preço
+--------- | ------
+Arroz     | R$ 10
+Feijão    | R$ 8
+Batata    | R$ 7
+Macarrão  | R$ 8
         
        - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
         
