@@ -81,18 +81,18 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
         
        - Determinação de períodos seco e úmido;
        
-       Para determinação do período seco e período úmido, foi realizada a média das vazões em cada mês do ano de modo a criar um "ano médio" no qual é possível identificar o período seco e o período úmido. A figura 7 apresenta tal gráfico.
+       + Para determinação do período seco e período úmido, foi realizada a média das vazões em cada mês do ano de modo a criar um "ano médio" no qual é possível identificar o período seco e o período úmido. A figura 7 apresenta tal gráfico.
        
        ![Teste de legenda de imagem](/imagens2/periodosecoumido.png)
         Figura 7: Período seco e Período Úmido
        
-       A partir do gráfico temos que o período umido corresponde aos meses de abril a setembro e o período seco corresponde aos meses de outubro a março.
+       + A partir do gráfico temos que o período umido corresponde aos meses de abril a setembro e o período seco corresponde aos meses de outubro a março.
        
       Codigo XXXXXXXX [Código  período seco e período úmido]
       
   - Determinação de valores extremos;
        
-       As vazões máximas e mínimas que ocorrem em um período determinado são denominadas de vazões extremas. A tabela a seguir apresenta as vazões máximas e mínimas registradas em cada ano.
+       + As vazões máximas e mínimas que ocorrem em um período determinado são denominadas de vazões extremas. A tabela a seguir apresenta as vazões máximas e mínimas registradas em cada ano.
        
 | Ano | Vazão Máxima | Vazão Mínima 
 |------|--------------|--------------
@@ -180,7 +180,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 | 2012 | 2801 | 12 
 | 2013 | 4655 | 28 
 
-Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
+   + Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
       Codigo XXXXXXXX Valores Extremos
       
       
@@ -194,17 +194,17 @@ Uma outra utilizada das vazões máximas e mínimas está relacionado com o conc
   
   Figura 8: Vazão  firme. 
   
-  O valor de vazão mais próximo de 95%, ocorrendo 95,26% das vezes é uma vazão de 22 m^2/s
+     + O valor de vazão mais próximo de 95%, ocorrendo 95,26% das vezes é uma vazão de 22 m^2/s
   
-  + Vazão de projeto
+  - Vazão de projeto
 
-  A vazão necessário Qn foi definida no projeto do aproveitamento como sendo 285,27m^3/s. 
+     +A vazão necessário Qn foi definida no projeto do aproveitamento como sendo 285,27m^3/s. 
   
-  Dessa forma nossa vazão de projeto(Qp)  deve ser menor ou igual a vazão vazão média ao longo do tempo(QMLT), de acordo com a condição   abaixo;
+     +Dessa forma nossa vazão de projeto(Qp)  deve ser menor ou igual a vazão vazão média ao longo do tempo(QMLT), de acordo com a condição   abaixo;
 
   ![Teste de legenda de imagem](/imagens2/fig2.JPG)
   
-  Como a nossa vazão necessária é igual à vazão ao longo do tempo, assumimos como a nossa vazão de projeto a vazão média ao longo do       tempo.
+     + Como a nossa vazão necessária é igual à vazão ao longo do tempo, assumimos como a nossa vazão de projeto a vazão média ao longo do       tempo.
   
 - Cálculo da vazão regularizada: O grupo deverá fazer um cálculo da vazão regularizada baseado nos dados fornecidos de vazão. O método a ser usado é o método de Conti-Varlet. A formulação deste método está disponível no livro-texto do curso (Souza, Z., Santos, A. H. M e Bortoni, E. C.  **Centrais Hidrelétricas: Implantação e Comissionamento**, 2a. Edição, Editora Interciência.). Para este cálculo o grupo deverá:
         
@@ -226,7 +226,7 @@ Uma outra utilizada das vazões máximas e mínimas está relacionado com o conc
     
     + Mesmo que a reta de vazão regularizada pareça tocar a curva deslocada, ela não toca (vide cálculo presente no código). 
     + Em seguida realizou-se o processo inverso ao realizado durante todo o estudo, transformou-se o volume acumulado presente na reta de vazão regularizada em um valor de vazão que estará disponível durante todos os períodos (vazão regular). Desse modo, obteve-se o valor de 285,3 m³/s como vazão regular.
-    + A figira 11 apresenta o fluxograma semanal para a massa de dados com a reta de vazão regular.
+    + A figura 11 apresenta o fluxograma semanal para a massa de dados com a reta de vazão regular.
     
     ![Teste de legenda de imagem](/imagens2/vazaoregular.png)
     
