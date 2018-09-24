@@ -67,6 +67,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        + A diferença observada pode ser explicada , pois o primeiro código realiza todos os cálculos em semanas e depois converte o resultado para uma data específica de modo que pode haver uma pequena variação no dia. Porém os resultados apresentam exatamente o mesmo mês de início e termino de modo a corroborar com sua validade. 
         
        - Determinação de períodos seco e úmido;
+       
+       Para determinação do período seco e período úmido, foi realizada a média das vazões em cada mês do ano de modo a criar um "ano médio" no qual é possível identificar o período seco e o período úmido. A figura 7 apresenta tal gráfico.
         
        - Determinação de valores extremos;
        
