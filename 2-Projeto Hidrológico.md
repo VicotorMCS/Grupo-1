@@ -57,8 +57,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        - Determinação de períodos seco e úmido;
         
        - Determinação de valores extremos;
-       
-       | Ano  | Vazão Máxima | Vazão Mínima |
+      | Ano  | Vazão Máxima | Vazão Mínima |
 |------|--------------|--------------|
 | 1931 | 3334         | 14           |
 | 1932 | 3038         | 15           |
