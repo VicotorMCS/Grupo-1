@@ -58,6 +58,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        Figura 6: Diagrama de Rippl.
        
+       [Código  Diagrama de Rippl](https://github.com/VicotorMCS/Grupo-1/blob/master/c%C3%B3digos%20finais/DiagramadeRipplVF.m)
+       
        - Determinação do período crítico;
        
       + O período crítico foi calculado a partir do diagrama de rippl e corresponde ao período em que o reservatório saiu do maior volume disponível para o menor valor durante toda a série de dados. 
