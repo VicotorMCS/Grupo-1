@@ -18,7 +18,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        Assim como no caso semanal, foram trazados os fluviogramas anuais e decenais que podem ser vistos nas figuras 2 e 3.
        
-       ![Teste de legenda de imagem](/imagens2/fluviogramaanual.png)
+       ![Teste de legenda de imagem](/imagens2/fluviogramaanual1.png)
        
        Figura 2:fluviograma anual.
        
@@ -28,8 +28,11 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        + Vale ressaltar que todos os fluviogramas são compostos pelas médias dos valores de vazão nos períodos referentes.
        
-       
        - Curva de duração de vazões;
+       
+       Em seguida foi confeccionada a curva de duração de vazões que relaciona a frequência de ocorrência de um determinado valor de vazão com o valor em si. A figura 4 apresenta a curva plotada.
+       
+       Do ponto de vista computacional, o código conta quantas vezes uma vazão ocorreu ou foi superada, em seguida ele transforma este número em uma porcentagem o dividindo pelo número total de vazões disponíveis. Assim, é possível plotar o gráfico com a frequência de ocorrencia percentual no eixo x e a vazão referente no eixo y.
        
        - Curva de duração de potência para uma queda (Determinada no projeto do aproveitamento) e rendimento de **90%**;
        
