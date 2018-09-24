@@ -156,7 +156,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 | 2012 | 2801 | 12 |
 | 2013 | 4655 | 28 |
 
-Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.  
+Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
 
        - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
         
