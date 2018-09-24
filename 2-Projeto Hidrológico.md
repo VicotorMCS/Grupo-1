@@ -56,7 +56,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        ![Teste de legenda de imagem](/imagens2/rippl.jpg)
        
-       Figura XX: Diagrama de Rippl.
+       Figura 6: Diagrama de Rippl.
        
        - Determinação do período crítico;
        
