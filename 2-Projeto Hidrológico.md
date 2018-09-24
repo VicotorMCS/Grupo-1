@@ -166,7 +166,7 @@ Uma outra utilizada das vazões máximas e mínimas está relacionado com o conc
       
 - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
   
-  +Vazão Firme 
+  + Vazão Firme 
   
   Vazão firme, ocorre em 95% das vezes. Dado obtido utilizando a curva de duração
 
