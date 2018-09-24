@@ -68,6 +68,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        - Determinação de períodos seco e úmido;
         
        - Determinação de valores extremos;
+       As vazões máximas e mínimas que ocorrem em um período determinado são denominadas de vazões extremas. A tabela a seguir apresenta as vazões máximas e mínimas registradas em cada ano.
        
 | Ano | Vazão Máxima | Vazão Mínima |
 |------|--------------|--------------|
@@ -155,8 +156,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 | 2012 | 2801 | 12 |
 | 2013 | 4655 | 28 |
 
+Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.  
 
-        
        - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
         
       
