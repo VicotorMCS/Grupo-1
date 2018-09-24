@@ -43,7 +43,9 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        
        + De posse da curva de duração de vazão é possível convertê-la na curva de duração de potência a partir da equação:
        
-       + Assim, foi plotado o gráfico da curva de duração de potências.
+       ![Teste de legenda de imagem](/imagens2/eqp.png)
+       
+       + Assim, multiplicando as vazões pela equação acima, foi plotado o gráfico da curva de duração de potências.
        
        ![Teste de legenda de imagem](/imagens2/curvadeduracaodepotencias.png)
        Figura 5: Curva de duração de potência.
