@@ -165,7 +165,9 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 Uma outra utilizada das vazões máximas e mínimas está relacionado com o conceito de risco inerente à estimativa. Tal conceito é  aplicado em implantação de Centrais Hidrelétricas.
       
 - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
+  
   +Vazão Firme 
+  
   Vazão firme, ocorre em 95% das vezes. Dado obtido utilizando a curva de duração
 
   ![Teste de legenda de imagem](/imagens2/vfirme.jpg)
