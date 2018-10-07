@@ -25,7 +25,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        ![imagem3](imagem3/ima3.png)
        
-       Onde n é parâmetro de rugosidade. O material para o construção do conduto do projeto é o aço liso que segundo a “Tabela 10.1 Valores experimentais do fator* n de Manning” do livro Mecânica dos Fluídos (WHITE, 20__), cujo o n = 0,012;
+       Onde n é parâmetro de rugosidade. O material para o construção do conduto do projeto é o aço liso que segundo a “Tabela 10.1 Valores experimentais do fator* n de Manning” do livro Mecânica dos Fluídos (WHITE, 1962), cujo o n = 0,012;
         
        α = 1,0 unidades do SI;
 
@@ -75,5 +75,11 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 Este projeto deverá ser feito neste arquivo até o dia **07/10/2018**. Pedidos de adiamento só serão concedidos em casos excepcionais, a serem decididos pelo professor.
+
+  - REFERÊNCIAS
+  
+  WHITE, Frank M. Mecânica dos fluidos. McGraw Hill Brasil, 1962.
+  
+  ELETROBRÁS. Diretrizes para estudos e projetos de Pequenas Centrais Hidrelétricas, 2000.
 
 
