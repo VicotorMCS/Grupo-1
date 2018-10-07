@@ -84,7 +84,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
        ![imagem13](imagem3/eqbre4.JPG)
        
-       Na figura abaixo estão ilustradas as linhas piezométrica e de energia e as cotas de altura.
+       Na figura abaixo estão traçadas as linhas piezométrica e de energia e as cotas de altura.
        
        ![imagem14](imagem3/imbre1.JPG)
        
