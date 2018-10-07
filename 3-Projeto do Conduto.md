@@ -15,15 +15,15 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        Partindo do equação de Chezy para cálculo da vazão:
        
-       [imagem1](imagem3/ima1.png)
+       ![imagem1](imagem3/ima1.png)
        
        Temos que o coeficiente de Chezy C:
        
-       [imagem2](imagem3/ima2.png)
+       ![imagem2](imagem3/ima2.png)
        
        Para facilitar os cálculos usaremos a correlação de Manning, onde C é:
        
-       [imagem3](imagem3/ima3.png)
+       ![imagem3](imagem3/ima3.png)
        
        Onde n é parâmetro de rugosidade. O material para o construção do conduto do projeto é o aço liso que segundo a “Tabela 10.1 Valores experimentais do fator* n de Manning” do livro Mecânica dos Fluídos (WHITE, 20__), cujo o n = 0,012;
         
@@ -31,27 +31,27 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
        Substituindo (3) em (1) e isolando Rh:
        
-       [imagem4](imagem3/ima4.png)
+       ![imagem4](imagem3/ima4.png)
        
        A escolha do comprimento do conduto da tubulação considerou um critério para o não uso da instalação de chaminé de equilíbrio. De acordo com ELETROBRÁS (2000) o cociente entre o comprimento do conduto forçado com a queda bruta tem que ser menor ou igual a 5. Dessa forma, foi considerado o comprimento máximo:
        
-       [imagem5](imagem3/ima5.png)
+       ![imagem5](imagem3/ima5.png)
         
        Com isso é possível calcular a inclinação S_0, mas primeiro é necessário definir o ângulo de inclinação:
        
-       [imagem6](imagem3/ima6.png)
+       ![imagem6](imagem3/ima6.png)
         
        Dessa forma:
        
-       [imagem7](imagem3/ima7.png)
+       ![imagem7](imagem3/ima7.png)
        
        Com esses dados pode-se calcular o Rh:
        
-       [imagem8](imagem3/ima8.png)
+       ![imagem8](imagem3/ima8.png)
        
        E o Dh:
        
-       [imagem9](imagem3/ima9.png)
+       ![imagem9](imagem3/ima9.png)
        
        - Velocidade da água no canal;
        
