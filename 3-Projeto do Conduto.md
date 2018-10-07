@@ -76,17 +76,18 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        ![imagem11](imagem3/eqbre2.JPG)
         
-        Para encontrar a diferença de cota entre a linha piezométrica e a linha de energia, basta calcular o termo de energia cinética dado pela equação:
+       Para encontrar a diferença de cota entre a linha piezométrica e a linha de energia, basta calcular o termo de energia cinética dado pela equação:
 
        ![imagem12](imagem3/eqbre3.JPG)
        
        Considerando que o diâmetro do conduto é constante em todo o trajeto, não há variação da velocidade de escoamento. Ou seja, u1=u2 e
 
-       ![imagem12](imagem3/eqbre4.JPG)
+       ![imagem13](imagem3/eqbre4.JPG)
        
        Na figura abaixo estão ilustradas as linhas piezométrica e de energia e as cotas de altura.
        
-       ![imagem13](imagem3/imbre.JPG)
+       ![imagem14](imagem3/imbre.JPG)
+       
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
   - Determinação de valores de golpe de aríete positivo máximo;
