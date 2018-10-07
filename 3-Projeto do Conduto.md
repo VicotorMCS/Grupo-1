@@ -7,7 +7,13 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
      
        -A melhor forma geométrica de seção para o canal em questão;
        
+       A forma Geométrica escolhida foi o condudo circular;
+       
+       Foi considerado conduto forçado para os cálculos seguintes;
+       
        - O diâmetro hidráulico da seção;
+       
+       
        
        - Velocidade da água no canal;
        
