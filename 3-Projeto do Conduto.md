@@ -86,7 +86,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        Na figura abaixo estão ilustradas as linhas piezométrica e de energia e as cotas de altura.
        
-       ![imagem14](imagem3/imbre.JPG)
+       ![imagem14](imagem3/imbre1.JPG)
        
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
