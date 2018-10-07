@@ -90,47 +90,47 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
-       + Para realização dos cálculos da intensidade do golpe de aríete na tubulação será usado os valores de celeridade, velocidade constante do escoamento e comprimento do conduto já calculados anteriormente. Assim:
+       Para realização dos cálculos da intensidade do golpe de aríete na tubulação será usado os valores de celeridade, velocidade constante do escoamento e comprimento do conduto já calculados anteriormente. Assim:
 
        + Vs= 647.745 m/s
        + u = 2.29 m/s
        + L = 350 metros
 	
-       + A partir disto pode-se calcular o semi-período da onda de pressão que é dado pela equação:
+       A partir disto pode-se calcular o semi-período da onda de pressão que é dado pela equação:
 
        ![imagem14](imagem3/f1.png)
         
-       + Inserindo os valores conhecidos na equação temos que o semi-período T é igual a 1.0806s.
+       Inserindo os valores conhecidos na equação temos que o semi-período T é igual a 1.0806s.
 
-       + Caso o tempo de fechamento seja inferior a esse semi-período, haverá um golpe de ariete intenso que pode danificar a instalação. Assim, é importante calcular o máximo golpe de ariete positivo (que por definição possui o mesmo valor absoluto do máximo golpe de ariete negativo) de modo a projetar a tubulação para aguentar esta variação de pressão.
+       Caso o tempo de fechamento seja inferior a esse semi-período, haverá um golpe de ariete intenso que pode danificar a instalação. Assim, é importante calcular o máximo golpe de ariete positivo (que por definição possui o mesmo valor absoluto do máximo golpe de ariete negativo) de modo a projetar a tubulação para aguentar esta variação de pressão.
   
   - Determinação de valores de golpe de aríete positivo máximo;
   
-       + Para se calcular o máximo golpe de ariete usou-se a formulação de Allievi:
+       Para se calcular o máximo golpe de ariete usou-se a formulação de Allievi:
        
        ![imagem14](imagem3/f2.png)
         
-       + Da equação temos que o máximo golpe de ariete positivo será de 151.2 metros. Vale ressaltar que o golpe de aríete é medido como uma queda adicional, por isso sua unidade é dada em metros.
+       Da equação temos que o máximo golpe de ariete positivo será de 151.2 metros. Vale ressaltar que o golpe de aríete é medido como uma queda adicional, por isso sua unidade é dada em metros.
 
-       + Por fim, se o tempo de fechamento da válvula for maior que o semi-período da onda de pressão, haverá uma redução no transiente de pressão o que resultará em um menor golpe de aríete.
+       Por fim, se o tempo de fechamento da válvula for maior que o semi-período da onda de pressão, haverá uma redução no transiente de pressão o que resultará em um menor golpe de aríete.
   
   - Determinação de valores do golpe de aríete aceitável;
   
-       + Para determinação do golpe de aríete aceitável será usada a formulação de Michaeaud que é dada pela equação a seguir:
+       Para determinação do golpe de aríete aceitável será usada a formulação de Michaeaud que é dada pela equação a seguir:
        
        ![imagem14](imagem3/f3.png)
        
-       + Sendo tvigual ao tempo de fechamento da válvula.
-       + Para definição do tempo de fechamento da válvula foi utilizado o equacionamento de de Rosich simplificado que define a equação:
+       Sendo tvigual ao tempo de fechamento da válvula.
+       Para definição do tempo de fechamento da válvula foi utilizado o equacionamento de de Rosich simplificado que define a equação:
 
        ![imagem14](imagem3/f4.png)
           
-       + Sendo C e K coeficientes tabelados que dependem do comprimento do conduto e da altura de queda. Para o caso estudado C será 0.95 (Coeficiente ligado a declividade) e K(coeficiente ligado a altura de recalque) será 2. Substituindo os valores nas equação temos que tvé igual a 3.28 s, o que é superior ao semi-período da onda de pressão e garante uma diminuição do golpe de aríete. 
-       + Aplicando a equação de Michaeaud temos que o hsé igual a 49.75 metros resultando em:
+       Sendo C e K coeficientes tabelados que dependem do comprimento do conduto e da altura de queda. Para o caso estudado C será 0.95 (Coeficiente ligado a declividade) e K(coeficiente ligado a altura de recalque) será 2. Substituindo os valores nas equação temos que tvé igual a 3.28 s, o que é superior ao semi-período da onda de pressão e garante uma diminuição do golpe de aríete. 
+       Aplicando a equação de Michaeaud temos que o hsé igual a 49.75 metros resultando em:
 
        ![imagem14](imagem3/f5.png)
        
-       + Em todos os casos utilizou-se a queda bruta da usina, pois queremos encontrar os piores casos de golpe de aríete e assegurar que o conduto resistirá a eles.
+       Em todos os casos utilizou-se a queda bruta da usina, pois queremos encontrar os piores casos de golpe de aríete e assegurar que o conduto resistirá a eles.
 
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 Este projeto deverá ser feito neste arquivo até o dia **07/10/2018**. Pedidos de adiamento só serão concedidos em casos excepcionais, a serem decididos pelo professor.
