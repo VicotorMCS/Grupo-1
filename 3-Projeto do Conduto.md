@@ -72,7 +72,21 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        ![imagem10](imagem3/eqbre1.JPG)
        
+       Como o escoamento ocorre em conduto livre, a pressão no ponto 1 é a mesma que no ponto 2, ou seja, pressão atmosférica à 101325 Pa. Logo, obtivemos o resultado:
+       
+       ![imagem11](imagem3/eqbre2.JPG)
         
+        Para encontrar a diferença de cota entre a linha piezométrica e a linha de energia, basta calcular o termo de energia cinética dado pela equação:
+
+       ![imagem12](imagem3/eqbre3.JPG)
+       
+       Considerando que o diâmetro do conduto é constante em todo o trajeto, não há variação da velocidade de escoamento. Ou seja, u1=u2 e
+
+       ![imagem12](imagem3/eqbre4.JPG)
+       
+       Na figura abaixo estão ilustradas as linhas piezométrica e de energia e as cotas de altura.
+       
+       ![imagem13](imagem3/imbre.JPG)
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
   - Determinação de valores de golpe de aríete positivo máximo;
