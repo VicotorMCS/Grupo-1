@@ -66,6 +66,12 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        - Valores de cota de altura;
        - Alturas de queda;
        - Linhas piezométrica e de energia;
+       
+       Partindo das equações de Bernoulli, as linhas piezométrica e de energia serão traçadas. A linha de energia representa todos os termos da equação de Bernoulli, enquanto a linha piezométrica representa as componentes de pressão e elevação.
+       O valor da variação da altura de montante ou à jusante para a cota piezométrica pode ser obtida pela equação:
+       
+       ![imagem10](imagem3/eqbre1.JPG)
+       
         
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
