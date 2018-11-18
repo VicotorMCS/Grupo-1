@@ -11,6 +11,13 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Estime a rotação nominal da turbina, considerando um gerador com 10 pólos e frequência de corrente de 60 Hz;
   
+    + A rotação nominal da turbina pode ser calculada pela seguinte equação:
+    
+    ![Teste de legenda de imagem](/Grupo-1/rpmfreqpolo.png)
+                                          Figura 1: Equação para definir a rotação nominal.
+                                          
+    + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 720 RPM.
+  
   - Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
