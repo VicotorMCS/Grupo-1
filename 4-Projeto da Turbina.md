@@ -14,7 +14,8 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     + A rotação nominal da turbina pode ser calculada pela seguinte equação:
     
     ![Teste de legenda de imagem](rpmfreqpolo.png)
-                                          Figura 1: Equação para definir a rotação nominal.
+    
+    Figura 1: Equação para definir a rotação nominal.
                                           
     + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 720 RPM.
   
@@ -34,28 +35,32 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
        
     + Assim a potência no eixo (considerando um rendimento de 95% da conversão mecânica para elétrica) será dado por:
     
-    ![Teste de legenda de imagem](/Grupo-1/pot.png)
-                                          Figura 2: Potência de eixo.
+    ![Teste de legenda de imagem](pot.png)
+    
+    Figura 2: Potência de eixo.
     
     + Temos a vazão, a massa específica da água e a potência, assim isolando Y encontramos que seu valor deve ser de 707,36 J/kg.
     + Y pode ser calculado a partir da equação a seguir:
     
-    ![Teste de legenda de imagem](/Grupo-1/trabalho.png)
-                                          Figura 3: Trabalho específico.
+    ![Teste de legenda de imagem](trabalho.png)
+    
+    Figura 3: Trabalho específico.
     
     + A partir dos parâmetros construtivos da turbina é possível calcular u2 e Vn2 através das equações:
     
-    ![Teste de legenda de imagem](/Grupo-1/u2.png)
-                                          Figura 4: Calculo de u2.
+    ![Teste de legenda de imagem](u2.png)
+                                  
+    Figura 4: Calculo de u2.
                                           
-    ![Teste de legenda de imagem](/Grupo-1/vn2.png)
-                                          Figura 5: Calculo de Vn2.
+    ![Teste de legenda de imagem](vn2.png)
+                                          
+    Figura 5: Calculo de Vn2.
                                           
     + Tais velocidades são parâmetros do triângulo de velocidades da turbina e serão melhores apresentados no tópico seguinte.
+    
     + Substituindo os parâmetros contrutivos nas equações é possível calcular Y e ver que ele é igual a 712.4878 J/kg. Um pouco mais que o requerido, fazendo que a turbina a presente a potência levemente superior a definida do tópico 1 (48.27 MW contra 47.93 definido), porém não há problema, este valor será usado como coeficiente de segurança.
     
     + Por fim a razão de segurança é definida como a razão entre o diâmetro do protótipo pelo diâmetro do modelo e terá valor de 60.
-    
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
