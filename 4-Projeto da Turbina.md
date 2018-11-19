@@ -21,10 +21,15 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   - Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
   
     + Para definir a razão de escala geométrica é necessário definir os parâmetros construtivos da turbina a ser utilizada. Assim, para obtenção da potência requerida foi definido que a turbina apresentará:
+    
        +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros.
+       
        +Largura de pá de 0.05 metros na base e 0.03 no topo.
+       
        +Rotação nominal de 116.13 rpm resultando em 62 polos.
+       
        +Angulo de pá de 15°.
+       
        +Velocidade de entrada de 2.28 m/s.
        
     + Assim a potência no eixo (considerando um rendimento de 95% da conversão mecânica para elétrica) será dado por:
