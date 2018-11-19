@@ -20,6 +20,38 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
   
+    + Para definir a razão de escala geométrica é necessário definir os parâmetros construtivos da turbina a ser utilizada. Assim, para obtenção da potência requerida foi definido que a turbina apresentará:
+       +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros.
+       +Largura de pá de 0.05 metros na base e 0.03 no topo.
+       +Rotação nominal de 116.13 rpm resultando em 62 polos.
+       +Angulo de pá de 15°.
+       +Velocidade de entrada de 2.28 m/s.
+       
+    + Assim a potência no eixo (considerando um rendimento de 95% da conversão mecânica para elétrica) será dado por:
+    
+    ![Teste de legenda de imagem](/Grupo-1/poteixo.png)
+                                          Figura 2: Potência de eixo.
+    
+    + Temos a vazão, a massa específica da água e a potência, assim isolando Y encontramos que seu valor deve ser de 707,36 J/kg.
+    + Y pode ser calculado a partir da equação a seguir:
+    
+    ![Teste de legenda de imagem](/Grupo-1/trabalho.png)
+                                          Figura 3: Trabalho específico.
+    
+    + A partir dos parâmetros construtivos da turbina é possível calcular u2 e Vn2 através das equações:
+    
+    ![Teste de legenda de imagem](/Grupo-1/u2.png)
+                                          Figura 4: Calculo de u2.
+                                          
+    ![Teste de legenda de imagem](/Grupo-1/vn2.png)
+                                          Figura 5: Calculo de Vn2.
+                                          
+    + Tais velocidades são parâmetros do triângulo de velocidades da turbina e serão melhores apresentados no tópico seguinte.
+    + Substituindo os parâmetros contrutivos nas equações é possível calcular Y e ver que ele é igual a 712.4878 J/kg. Um pouco mais que o requerido, fazendo que a turbina a presente a potência levemente superior a definida do tópico 1 (48.27 MW contra 47.93 definido), porém não há problema, este valor será usado como coeficiente de segurança.
+    
+    + Por fim a razão de segurança é definida como a razão entre o diâmetro do protótipo pelo diâmetro do modelo e terá valor de 60.
+    
+  
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
