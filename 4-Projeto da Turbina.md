@@ -14,6 +14,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     + A rotação nominal da turbina pode ser calculada pela seguinte equação:
     
          ![Teste de legenda de imagem](rpmfreqpolo.png)
+         
          Figura 1: Equação para definir a rotação nominal.
                                           
     + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 720 RPM.
