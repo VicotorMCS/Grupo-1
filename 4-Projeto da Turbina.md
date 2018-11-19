@@ -13,9 +13,8 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
     + A rotação nominal da turbina pode ser calculada pela seguinte equação:
     
-        ![Teste de legenda de imagem](rpmfreqpolo.png)
-    
-        Figura 1: Equação para definir a rotação nominal.
+         ![Teste de legenda de imagem](rpmfreqpolo.png)
+         Figura 1: Equação para definir a rotação nominal.
                                           
     + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 720 RPM.
   
@@ -35,26 +34,26 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
        
     + Assim a potência no eixo (considerando um rendimento de 95% da conversão mecânica para elétrica) será dado por:
     
-    ![Teste de legenda de imagem](pot.png)
+         ![Teste de legenda de imagem](pot.png)
     
-    Figura 2: Potência de eixo.
+         Figura 2: Potência de eixo.
     
     + Temos a vazão, a massa específica da água e a potência, assim isolando Y encontramos que seu valor deve ser de 707,36 J/kg.
     + Y pode ser calculado a partir da equação a seguir:
     
-    ![Teste de legenda de imagem](trabalho.png)
+         ![Teste de legenda de imagem](trabalho.png)
     
-    Figura 3: Trabalho específico.
+         Figura 3: Trabalho específico.
     
     + A partir dos parâmetros construtivos da turbina é possível calcular u2 e Vn2 através das equações:
     
-    ![Teste de legenda de imagem](u2.png)
+         ![Teste de legenda de imagem](u2.png)
                                   
-    Figura 4: Calculo de u2.
+         Figura 4: Calculo de u2.
                                           
-    ![Teste de legenda de imagem](vn2.png)
+         ![Teste de legenda de imagem](vn2.png)
                                           
-    Figura 5: Calculo de Vn2.
+         Figura 5: Calculo de Vn2.
                                           
     + Tais velocidades são parâmetros do triângulo de velocidades da turbina e serão melhores apresentados no tópico seguinte.
     
