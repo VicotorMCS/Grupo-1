@@ -34,7 +34,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
        
     + Assim a potência no eixo (considerando um rendimento de 95% da conversão mecânica para elétrica) será dado por:
     
-    ![Teste de legenda de imagem](/Grupo-1/poteixo.png)
+    ![Teste de legenda de imagem](/Grupo-1/pot.png)
                                           Figura 2: Potência de eixo.
     
     + Temos a vazão, a massa específica da água e a potência, assim isolando Y encontramos que seu valor deve ser de 707,36 J/kg.
