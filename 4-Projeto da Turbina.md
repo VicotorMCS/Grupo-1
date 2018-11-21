@@ -16,8 +16,9 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
          ![Teste de legenda de imagem](rpmfreqpolo.png)
          
          Figura 1: Equação para definir a rotação nominal.
-                                          
-    + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 720 RPM.
+         
+    + Sendo P o número de pares de polos que na questão será 5.                                      
+    + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 1440 RPM.
   
   - Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
   
@@ -27,7 +28,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
        
        +Largura de pá de 0.05 metros na base e 0.03 no topo (b1 e b2 respectivamente).
        
-       +Rotação nominal de 116.13 rpm resultando em 62 polos (n).
+       +Rotação nominal de 116.13 rpm resultando em 62 pares de polos (n).
        
        +Angulo de pá de 15°(beta 2).
        
