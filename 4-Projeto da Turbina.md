@@ -72,9 +72,9 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
      + Velocidade de disparo é a situação onde a rotação da turbina é máxima, quando o gerador é retirado do sistema e o distribuidor continua em abertura plena (NOLETO, 2017).
 A partir da aplicação de Bernoulli na entrada e na saída do bocal, essa velocidade é obtida como:
   
-   ![Teste de legenda de imagem](us.png)
+   ![Teste de legenda de imagem](us.PNG)
                                   
-   Figura x: Calculo de us.
+   Figura x: Calculo da velocidade de disparo.
                                           
 
   
