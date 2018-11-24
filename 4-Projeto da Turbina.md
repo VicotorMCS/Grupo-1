@@ -70,14 +70,14 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   - Estime a velocidade de disparo da turbina;
   
      + Velocidade de disparo é a situação onde a rotação da turbina é máxima, quando o gerador é retirado do sistema e o distribuidor continua em abertura plena (NOLETO, 2017).
-
-     A partir da aplicação de Bernoulli na entrada e na saída do bocal, essa velocidade é obtida como:
+     
+     + A partir da aplicação de Bernoulli na entrada e na saída do bocal, essa velocidade é obtida como:
     
        ![Teste de legenda de imagem](us.PNG)
         
     Figura x: Calculo da velocidade de disparo.
      
-     Como o fluido é água, a massa é 0,97 kg/m³ e a gravidade 9,81 m²/s então, a velocidade de disparo da turbina possui velocidade de:
+     + Como o fluido é água, a massa é 0,97 kg/m³ e a gravidade 9,81 m²/s então, a velocidade de disparo da turbina possui velocidade de:
      
        ![Teste de legenda de imagem](us2.PNG)
         
@@ -91,7 +91,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
         
     Figura x: Calculo do fator da capacidade.
     
-    Sabendo que a energia é dada pelo produto da potência pelo tempo e utilizando os dados adquiridos no projeto de aproveitamento, tomando a potência máxima como a potência total, temos:
+     + Sabendo que a energia é dada pelo produto da potência pelo tempo e utilizando os dados adquiridos no projeto de aproveitamento, tomando a potência máxima como a potência total, temos:
 
        ![Teste de legenda de imagem](pu.PNG)
         
@@ -103,7 +103,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     
        ![Teste de legenda de imagem](pt.PNG)
     
-     Logo, o valor de fator de capacidade da usina hidrelétrica é 
+     + Logo, o valor de fator de capacidade da usina hidrelétrica é 
 
        ![Teste de legenda de imagem](fc2.PNG)
         
