@@ -107,9 +107,9 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    ![Teste de legenda de imagem](b_kaplan_medio.JPG)
    
-   Podemos determinar o B2 pela seguinte equação:
+   Podemos determinar o B pela seguinte equação:
    
-   ![Teste de legenda de imagem](b2_kaplan_medio.JPG)
+   ![Teste de legenda de imagem](b_kaplan_medio.JPG)
    
    Podemos determianr o W pela seguinte equação:
    
