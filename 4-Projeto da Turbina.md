@@ -67,17 +67,13 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   -Para a turbina Kaplan temos as seguintes considerações:
 
-   + Vamos considerar saída meridional (fluxo axial);
-   +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
+   + Vamos considerar saída radial (fluxo axial);
+   +Para simplificar os cálculos vamos considerar que o diâmetro externo é igual ao diâmetro interno que é igual a 4.5;
    +Rotação nominal de 1440 rpm resultando em 5 pares de polos (n);
    +Vazão de 71,325 m³/s.
         
   Assim, no Hub temos:
   
-  Podemos determinar a área por onde o fluido escoa pela seguinte equação:
-    
-   ![Teste de legenda de imagem](area_kaplan.JPG)
-    
    Podemos determinar a velocidade média pela seguinte equação:
    
    ![Teste de legenda de imagem](V_Medio_kaplan.JPG)
@@ -102,7 +98,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
   ![Teste de legenda de imagem](triangulos_kaplan.JPG)
 
-Para a turbina Kaplan diâmetro médio:
+Para a turbina Kaplan (diâmetro médio):
 
 Temos que u1, pode ser determinada pela seguinte equação:
     
