@@ -65,7 +65,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
-  Para a turbina Kaplan temos as seguintes considerações:
+  -Para a turbina Kaplan temos as seguintes considerações:
 
    + Vamos considerar saída meridional (fluxo axial);
    +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
@@ -124,24 +124,40 @@ Temos que u1, pode ser determinada pela seguinte equação:
 
   ![Teste de legenda de imagem](triangulo_kaplan_medio.JPG)
    
+   
+  - Para a turbina Francis temos as seguintes considerações:
+  
+   +Vamos considerar saída meridional (fluxo axial);
+   
+   +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
+   
+   +Rotação nominal de 1440 rpm resultando em 5 pares de polos (n);
+   
+   +Vazão de 71,325 m³/s.
+   
+   +Largura de pá de 0.05 metros na base e 0.03 no topo (b1 e b2 respectivamente).
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
   - Estime a velocidade de disparo da turbina;
   
-     + Velocidade de disparo é a situação onde a rotação da turbina é máxima, quando o gerador é retirado do sistema e o distribuidor continua em abertura plena (NOLETO, 2017).
+  Podemos determina Vn1 e Vn2 pelas seguinte equações:
+  
+  
+  
+   + Velocidade de disparo é a situação onde a rotação da turbina é máxima, quando o gerador é retirado do sistema e o distribuidor continua em abertura plena (NOLETO, 2017).
      
      + A partir da aplicação de Bernoulli na entrada e na saída do bocal, essa velocidade é obtida como:
     
        ![Teste de legenda de imagem](us.PNG)
         
-    Figura x: Calculo da velocidade de disparo.
+   Figura x: Calculo da velocidade de disparo.
      
-     + Como o fluido é água, a massa é 0,97 kg/m³ e a gravidade 9,81 m²/s então, a velocidade de disparo da turbina possui velocidade de:
+   + Como o fluido é água, a massa é 0,97 kg/m³ e a gravidade 9,81 m²/s então, a velocidade de disparo da turbina possui velocidade de:
      
-       ![Teste de legenda de imagem](us2.PNG)
+   ![Teste de legenda de imagem](us2.PNG)
         
-    Figura x: Valor da velocidade de disparo.
+   Figura x: Valor da velocidade de disparo.
   
   - Estime o fator de capacidade;
   
