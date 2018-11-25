@@ -139,6 +139,8 @@ Temos que u1, pode ser determinada pela seguinte equação:
    +Vazão de 71,325 m³/s.
    
    +Largura de pá de 0.05 metros na base e 0.03 no topo (b1 e b2 respectivamente).
+   
+   
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
