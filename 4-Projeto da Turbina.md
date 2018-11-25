@@ -159,6 +159,27 @@ Temos que u1, pode ser determinada pela seguinte equação:
 Assim, o triângulo de velocidades para a turbina francis:
 
 ![Teste de legenda de imagem](triangulo_francis.JPG)
+
+ - Para a turbina Pelton temos as seguintes considerações:
+ 
+ +Vazão de 71,325 m³/s.
+ 
+ +Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
+ 
+ +B2 =10º
+ 
+ Podemos determinar  o u pega seguinte equação:
+ 
+ ![Teste de legenda de imagem](u_francis.JPG)
+ 
+ Podemos determinar o V pela seguinte equação:
+ 
+ ![Teste de legenda de imagem](V_pelton.JPG)
+ 
+ Triangulo de velocidades da turbina pelton:
+ 
+![Teste de legenda de imagem](triangulo_pelton.JPG)
+ 
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
