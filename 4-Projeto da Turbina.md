@@ -134,7 +134,7 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
    
-   +Rotação nominal de 1440 rpm resultando em 5 pares de polos (n);
+   +Rotação nominal de 720 rpm resultando em 5 pares de polos (n);
    
    +Vazão de 71,325 m³/s.
    
