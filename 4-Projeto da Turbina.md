@@ -162,6 +162,21 @@ Assim, o triângulo de velocidades para a turbina francis:
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
+  Define-se por rotação específica, também chamada de coeficiente de forma da turbina, as rotações por minuto executadas pela turbina unidade, de uma turbina analisada e de qualquer outra que seja semelhante geometricamente a ela. Esse é um parâmetro adimensional, e pode ser relacionada a vazão ou a potência da máquina estudada.
+  
+Para esse caso, será calculada a rotação específica relacionada a vazão e o salto energético, que é dada pela seguinte equação:
+
+![Teste de legenda de imagem](rotacao_especifica.JPG)
+
+Quanto às velocidades do rotor, as turbinas Francis podem ser:
+
+- lentas (55<ns<120 rpm);- normais (120<ns<200 rpm);
+
+- rápidas (ou Deriaz) (200<ns<300);
+
+- extra rápidas ou ultra-rápidas (300<ns<450).
+
+  A turbina pode ser classificada como lenta, pois a rotação específica é de aproximadamente 70.93 rpm.
   
   - Estime a velocidade de disparo da turbina;
   
