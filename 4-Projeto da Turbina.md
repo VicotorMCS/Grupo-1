@@ -81,7 +81,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     
    ![Teste de legenda de imagem](u_hub.JPG)
   
- # Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
+ #### Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
  #### Estime a velocidade de disparo da turbina;
   
