@@ -107,10 +107,6 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    ![Teste de legenda de imagem](b_kaplan_medio.JPG)
    
-   Podemos determinar o B pela seguinte equação:
-   
-   ![Teste de legenda de imagem](b_kaplan_medio.JPG)
-   
    Podemos determianr o W pela seguinte equação:
    
    ![Teste de legenda de imagem](w_kaplan_medio.JPG)
@@ -118,6 +114,7 @@ Temos que u1, pode ser determinada pela seguinte equação:
    Assim, temos os triângulos de velocidades :
 
   ![Teste de legenda de imagem](triangulos_kaplan_medio.JPG)
+  
    
   - Para a turbina Francis temos as seguintes considerações:
   
