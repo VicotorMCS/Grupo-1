@@ -83,7 +83,7 @@ beta: Ângulo formado pela velocidade relativa W e a velocidade tangencial u, ta
    
    +Para simplificar os cálculos vamos considerar que o diâmetro externo é igual ao diâmetro interno que é igual a 4.5;
    
-   +Rotação nominal de 1440 rpm resultando em 5 pares de polos (n);
+   +Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
    
    +Vazão de 71,325 m³/s.
         
@@ -134,7 +134,7 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
    
-   +Rotação nominal de 720 rpm resultando em 5 pares de polos (n);
+   +Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
    
    +Vazão de 71,325 m³/s.
    
@@ -145,7 +145,8 @@ Temos que u1, pode ser determinada pela seguinte equação:
    ![Teste de legenda de imagem](u_francis.JPG)
    
    Podemos determinar o Vt pela seguinte equação:
-   ![Teste de legenda de imagem](vt_francis.JPG)
+   
+   ![Teste de legenda de imagem](Vt_francis.JPG)
    
    Podemos determinar alfa pela seguinte equação:
    
