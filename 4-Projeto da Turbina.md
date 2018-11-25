@@ -130,7 +130,7 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
   - Para a turbina Francis temos as seguintes considerações:
   
-   +Vamos considerar saída meridional (fluxo axial);
+   +Vamos considerar saída meridional;
    
    +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
    
@@ -156,9 +156,12 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    ![Teste de legenda de imagem](V_absoluto_francis.JPG)
 
-Podemos determinar 
+Assim, o triângulo de velocidades para a turbina francis:
+
+![Teste de legenda de imagem](triangulo_francis.JPG)
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
+  
   
   - Estime a velocidade de disparo da turbina;
   
