@@ -77,9 +77,9 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
         
   Assim, no Hub temos:
   
-   Podemos determinar a velocidade média pela seguinte equação:
+   Podemos determinar a velocidade absoluta do escoamento pela seguinte equação:
    
-   ![Teste de legenda de imagem](V_Medio_kaplan.JPG)
+   ![Teste de legenda de imagem](v_absoluto_kaplan.JPG)
     
    Agora é possível determinar o triângulo de velocidades. Temos que u1, pode ser determinada pela seguinte equação:
     
