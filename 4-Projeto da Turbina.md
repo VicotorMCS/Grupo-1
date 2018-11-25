@@ -65,6 +65,18 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
+  +Para as demostranções a seguir temos que:
+  
+V: Velocidade Absoluta do Escoamento no ponto em estudo;
+
+u: Velocidade Tangencial do rotor no ponto em estudo;
+
+W: Velocidade Relativa do Escoamento no ponto em estudo;
+
+alpha: Ângulo formado pela velocidade absoluta C e a velocidade tangencial u, também chamado ângulo do escoamento absoluto;
+
+beta: Ângulo formado pela velocidade relativa W e a velocidade tangencial u, também chamado ângulo do escoamento relativo.  
+  
   -Para a turbina Kaplan temos as seguintes considerações:
 
    + Vamos considerar saída radial (fluxo axial);
