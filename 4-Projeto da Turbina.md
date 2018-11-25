@@ -122,7 +122,7 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    Assim, temos os triângulos de velocidades :
 
-  ![Teste de legenda de imagem](triangulos_kaplan_medio.JPG)
+  ![Teste de legenda de imagem](triangulo_kaplan_medio.JPG)
    
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
