@@ -68,8 +68,11 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   -Para a turbina Kaplan temos as seguintes considerações:
 
    + Vamos considerar saída radial (fluxo axial);
+   
    +Para simplificar os cálculos vamos considerar que o diâmetro externo é igual ao diâmetro interno que é igual a 4.5;
+   
    +Rotação nominal de 1440 rpm resultando em 5 pares de polos (n);
+   
    +Vazão de 71,325 m³/s.
         
   Assim, no Hub temos:
@@ -80,19 +83,15 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     
    Agora é possível determinar o triângulo de velocidades. Temos que u1, pode ser determinada pela seguinte equação:
     
-   ![Teste de legenda de imagem](u_hub.JPG)
+   ![Teste de legenda de imagem](u_kaplan.JPG)
    
-   Podemos determinar a velocidade Vt1 pela seguinte equação:
-
-   ![Teste de legenda de imagem](Vt1_kaplan.JPG)
+   Podemos determinar o B pela seguinte equação:
    
-   Podemos determinar o angulo B1 pela seguinte equação:
+   ![Teste de legenda de imagem](B_kaplan.JPG)
    
-   ![Teste de legenda de imagem](B1.JPG)
+   Podemos sdetermianr o W pela seguinte equação:
    
-   Podemos determinar o B2 pela seguinte equação:
-   
-   ![Teste de legenda de imagem](B2_kaplan.JPG)
+   ![Teste de legenda de imagem](w_kaplan.JPG)
    
    Assim, temos os triângulos de velocidades :
 
