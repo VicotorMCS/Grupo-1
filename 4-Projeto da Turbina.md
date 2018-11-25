@@ -89,7 +89,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
    
    ![Teste de legenda de imagem](B_kaplan.JPG)
    
-   Podemos sdetermianr o W pela seguinte equação:
+   Podemos determianr o W pela seguinte equação:
    
    ![Teste de legenda de imagem](w_kaplan.JPG)
    
@@ -97,28 +97,27 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
   ![Teste de legenda de imagem](triangulos_kaplan.JPG)
 
-Para a turbina Kaplan (diâmetro médio):
+Para a turbina Kaplan (médio):
 
 Temos que u1, pode ser determinada pela seguinte equação:
     
    ![Teste de legenda de imagem](u1_kaplan_medio.JPG)
    
-   Podemos determinar a velocidade Vt1 pela seguinte equação:
-
-   ![Teste de legenda de imagem](vt1_kaplan_medio.JPG)
+   Podemos determinar o angulo B pela seguinte equação:
    
-   Podemos determinar o angulo B1 pela seguinte equação:
-   
-   ![Teste de legenda de imagem](b1_kaplan_medio.JPG)
+   ![Teste de legenda de imagem](b_kaplan_medio.JPG)
    
    Podemos determinar o B2 pela seguinte equação:
    
    ![Teste de legenda de imagem](b2_kaplan_medio.JPG)
    
+   Podemos determianr o W pela seguinte equação:
+   
+   ![Teste de legenda de imagem](w_kaplan_medio.JPG)
+   
    Assim, temos os triângulos de velocidades :
 
-  ![Teste de legenda de imagem](triangulo_kaplan_medio.JPG)
-   
+  ![Teste de legenda de imagem](triangulos_kaplan_medio.JPG)
    
   - Para a turbina Francis temos as seguintes considerações:
   
