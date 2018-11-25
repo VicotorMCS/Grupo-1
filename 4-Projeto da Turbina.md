@@ -140,7 +140,22 @@ Temos que u1, pode ser determinada pela seguinte equação:
    
    +Largura de pá de 0.05 metros na base e 0.03 no topo (b1 e b2 respectivamente).
    
+   Podemos determinar o u pela seguinte equação:
    
+   ![Teste de legenda de imagem](u_francis.JPG)
+   
+   Podemos determinar o Vt pela seguinte equação:
+   ![Teste de legenda de imagem](vt_francis.JPG)
+   
+   Podemos determinar alfa pela seguinte equação:
+   
+![Teste de legenda de imagem](alfa_francis.JPG)
+
+ Podemos determinar o V pela seguinte equação:
+   
+   ![Teste de legenda de imagem](V_absoluto_francis.JPG)
+
+Podemos determinar 
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
