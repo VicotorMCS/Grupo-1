@@ -89,6 +89,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
    ![Teste de legenda de imagem](B1.JPG)
    
    Podemos determinar o B2 pela seguinte equação:
+   
    ![Teste de legenda de imagem](B2_kaplan.JPG)
    
    Assim, temos os triângulos de velocidades :
