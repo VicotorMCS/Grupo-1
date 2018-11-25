@@ -65,21 +65,40 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
-    Para a turbina Kaplan temos os seguintes triângulos de velocidades:
-    No Hub:
-    + Vamos considerar entrada meridional (fluxo axial)
+  Para a turbina Kaplan temos os seguintes triângulos de velocidades:
+  No Hub:
+    + Vamos considerar saída meridional (fluxo axial)
     
-    Podemos determinar a área por onde o fluido escoa pela seguinte equação:
+  Podemos determinar a área por onde o fluido escoa pela seguinte equação:
     
-    ![Teste de legenda de imagem](area_kaplan.JPG)
+   ![Teste de legenda de imagem](area_kaplan.JPG)
     
-    Podemos determinar a velocidade média pela seguinte equação:
+   Podemos determinar a velocidade média pela seguinte equação:
    
-    ![Teste de legenda de imagem](V_Medio_kaplan.JPG)
+   ![Teste de legenda de imagem](V_Medio_kaplan.JPG)
     
-    Agora é possível determinar o triângulo de velocidades. Temos que Uhub, pode ser determinada pela seguinte equação:
+   Agora é possível determinar o triângulo de velocidades. Temos que Uhub, pode ser determinada pela seguinte equação:
     
-    ![Teste de legenda de imagem](u_hub.JPG)
+   ![Teste de legenda de imagem](u_hub.JPG)
+   
+   Podemos determinar a velocidade Vt1 pela seguinte equação:
+
+   ![Teste de legenda de imagem](Vt1_kaplan.JPG)
+   
+   Podemos determinar o angulo B1 pela seguinte equação:
+   ![Teste de legenda de imagem](B1.JPG)
+   
+   Podemos determinar o B2 pela seguinte equação:
+   ![Teste de legenda de imagem](B2_kaplan.JPG)
+   
+   Assim, temos os triângulos de velocidades :
+
+  ![Teste de legenda de imagem](triangulos_kaplan.JPG)
+   
+   
+   
+   
+    
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
