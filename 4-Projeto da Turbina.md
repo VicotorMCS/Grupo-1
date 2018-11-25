@@ -2,14 +2,14 @@
 
 O dimensionamento preliminar de uma turbina consistirá em determinar e dimensionar uma turbina para uma dado aproveitamento hidrelétrico. 
 
- # Cada grupo deverá especificar qual devem ser a potência e vazão da turbina a ser projetada, baseados nos cálculos dos projetos           anteriores;
+ #### Cada grupo deverá especificar qual devem ser a potência e vazão da turbina a ser projetada, baseados nos cálculos dos projetos           anteriores;
   
    + Dos projetos anteriores, calculou-se que a vazão de projeto para a usina será de 285,3 m³/s e definiu-se que haverá 4 condutos que      captarão a água do reservatório e a conduzirão as turbinas. Desse modo a usina possuirá cinco turbinas, cada uma ligada a um            conduto e uma sobressalente, com mesma potência e vazão de alimentação. A quinta turbina é uma medida de contingência para os            momentos de manutenção e para o caso de alguma das turbinas principais apresentar um defeito.
    + Cada turbina terá vazão de 71,325 m³/s, ou seja, um quarto da vazão de projeto.
    + Do projeto de aproveitamento, calculou-se a potência máxima obtendo um valor de 191.69 MW e definiu-se que a potência instalada          será igual a potência máxima do recurso hídrico. Além disso, cada turbina será dimensionada para gerar um quarto da potência total.
    + Deste modo, cada turbina terá a potência de 47.93 MW.
   
- # Estime a rotação nominal da turbina, considerando um gerador com 10 pólos e frequência de corrente de 60 Hz;
+ #### Estime a rotação nominal da turbina, considerando um gerador com 10 pólos e frequência de corrente de 60 Hz;
   
    + A rotação nominal da turbina pode ser calculada pela seguinte equação:
     
@@ -20,7 +20,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
    + Sendo P o número de pares de polos que na questão será 5.                                      
    + Utilizando está equação e os dados conferidos temos que a rotação nominal será de 1440 RPM.
   
- # Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
+ #### Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
   
    + Para definir a razão de escala geométrica é necessário definir os parâmetros construtivos da turbina a ser utilizada. Assim, para        obtenção da potência requerida foi definido que a turbina apresentará:
     
@@ -63,7 +63,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     
    + Por fim a razão de segurança é definida como a razão entre o diâmetro do protótipo pelo diâmetro do modelo e terá valor de 60.
    
- # Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar      necessárias e explique-as;
+ #### Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar      necessárias e explique-as;
   
    Para a turbina Kaplan temos os seguintes triângulos de velocidades:
    No Hub:
@@ -83,7 +83,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
  # Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
- # Estime a velocidade de disparo da turbina;
+ #### Estime a velocidade de disparo da turbina;
   
    + Velocidade de disparo é a situação onde a rotação da turbina é máxima, quando o gerador é retirado do sistema e o distribuidor          continua em abertura plena (NOLETO, 2017).
      
@@ -99,7 +99,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
         
    Figura x: Valor da velocidade de disparo.
   
- # Estime o fator de capacidade;
+ #### Estime o fator de capacidade;
   
    + O fator de capacidade é a relação entre a energia efetivamente gerada 𝐸ú𝑡𝑖𝑙 e a energia gerada caso a central trabalhe todo o             tempo em potência plena 𝐸𝑡𝑜𝑡𝑎𝑙. Este fator indicará a adequação entre a vazão de projeto e as vazões disponíveis, é dado por             (NOLETO, 2018):
      
@@ -123,13 +123,13 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
    ![Teste de legenda de imagem](fc2.PNG)
         
- # Qual é o tipo de turbina mais adequado para este aproveitamento?
+ #### Qual é o tipo de turbina mais adequado para este aproveitamento?
   
- # Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
+ #### Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
   
- # Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica,  etc.)
+ #### Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica,  etc.)
   
- # Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
+ #### Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 
 
 Os dados faltantes poderão ser estimados pelo grupo, desde que a forma de estimativa seja devidamente explicada. É facultada a utilização de ferramentas computacionais. Este projeto deverá ser feito neste arquivo até o dia **25/11/2018**. Pedidos de adiamento só serão concedidos em casos excepcionais, a serem decididos pelo professor.
