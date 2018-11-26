@@ -245,6 +245,19 @@ Quanto às velocidades do rotor, as turbinas Francis podem ser:
         
   - Qual é o tipo de turbina mais adequado para este aproveitamento?
   
+  Com base na altura e na vazão de projeto a turbina adequada é a turbina Francis. Pode-se calcular o coeficiente de Thoma, também conhecido como coeficiente de cavitação, para esse tipo de turbina. Ele permite obter-se a estimativa de faixa de operação do sistema para que não ocorra a cavitação. O coeficiente de cavitação é obtido a partir da seguinte equação: 
+  
+   ![Teste de legenda de imagem](thoma.JPG)
+  
+ 
+  Com o coeficiente de Thoma definido, é possível obter-se a altura máxima de sucção desta turbina, a partir da seguinte equação:
+  
+  ![Teste de legenda de imagem](thoma.JPG)
+  
+  Onde zb é a altitude do nível mínimo de jusante. Turbinas dispostas abaixo do nível de jusante sãoo ditas afogadas, e, portanto, terão altura de sucção negativa. Vamos considerar que zb=0. Assim:
+  
+   ![Teste de legenda de imagem](Hsm.JPG)
+  
   - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
   
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
