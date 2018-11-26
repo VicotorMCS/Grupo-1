@@ -208,13 +208,13 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
     
       ![Teste de legenda de imagem](us.PNG)
         
-      Figura x: Calculo da velocidade de disparo.
+      Figura 6: Calculo da velocidade de disparo.
      
       + Como o fluido é água, a massa é 0,97 kg/m³ e a gravidade 9,81 m²/s então, a velocidade de disparo da turbina possui velocidade de:
      
       ![Teste de legenda de imagem](us2.PNG)
         
-      Figura x: Valor da velocidade de disparo.
+      Figura 7: Valor da velocidade de disparo.
   
       - Estime o fator de capacidade;
   
@@ -222,7 +222,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
      
       ![Teste de legenda de imagem](fc1.PNG)
         
-      Figura x: Calculo do fator da capacidade.
+      Figura 8: Calculo do fator da capacidade.
     
       + Sabendo que a energia é dada pelo produto da potência pelo tempo e utilizando os dados adquiridos no projeto de aproveitamento, tomando a potência máxima como a potência total, temos:
 
