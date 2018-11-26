@@ -79,13 +79,13 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
     + Para a turbina Kaplan temos as seguintes considerações:
 
-     + Vamos considerar saída radial (fluxo axial);
+     ++ Vamos considerar saída radial (fluxo axial);
    
-     + Para simplificar os cálculos vamos considerar que o diâmetro externo é igual ao diâmetro interno que é igual a 4.5;
+     ++ Para simplificar os cálculos vamos considerar que o diâmetro externo é igual ao diâmetro interno que é igual a 4.5;
    
-     + Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
+     - Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
    
-     + Vazão de 71,325 m³/s.
+     - Vazão de 71,325 m³/s.
         
      Assim, no Hub temos:
   
