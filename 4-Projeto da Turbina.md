@@ -83,90 +83,89 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
    
       - Para simplificar os cálculos vamos considerar que o diâmetro externo é igual ao diâmetro interno que é igual a 4.5;
     
-     - Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
+      - Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
    
-     - Vazão de 71,325 m³/s.
+      - Vazão de 71,325 m³/s.
         
-     Assim, no Hub temos:
+      Assim, no Hub temos:
   
-     Podemos determinar a velocidade absoluta do escoamento pela seguinte equação:
+      Podemos determinar a velocidade absoluta do escoamento pela seguinte equação:
    
-     ![Teste de legenda de imagem](v_absoluto_kaplan.JPG)
+      ![Teste de legenda de imagem](v_absoluto_kaplan.JPG)
     
-     Agora é possível determinar o triângulo de velocidades. Temos que u1, pode ser determinada pela seguinte equação:
+      Agora é possível determinar o triângulo de velocidades. Temos que u1, pode ser determinada pela seguinte equação:
     
-     ![Teste de legenda de imagem](u_kaplan.JPG)
+      ![Teste de legenda de imagem](u_kaplan.JPG)
    
-     Podemos determinar o B pela seguinte equação:
+      Podemos determinar o B pela seguinte equação:
    
-     ![Teste de legenda de imagem](B_kaplan.JPG)
+      ![Teste de legenda de imagem](B_kaplan.JPG)
    
-     Podemos determianr o W pela seguinte equação:
+      Podemos determianr o W pela seguinte equação:
    
-     ![Teste de legenda de imagem](w_kaplan.JPG)
+      ![Teste de legenda de imagem](w_kaplan.JPG)
    
-     Assim, temos os triângulos de velocidades :
+      Assim, temos os triângulos de velocidades :
 
-     ![Teste de legenda de imagem](triangulos_kaplan.JPG)
+      ![Teste de legenda de imagem](triangulos_kaplan.JPG)
 
-     Para a turbina Kaplan (médio):
+      Para a turbina Kaplan (médio):
 
-     Temos que u1, pode ser determinada pela seguinte equação:
+      Temos que u1, pode ser determinada pela seguinte equação:
     
-     ![Teste de legenda de imagem](u1_kaplan_medio.JPG)
+      ![Teste de legenda de imagem](u1_kaplan_medio.JPG)
    
-     Podemos determinar o angulo B pela seguinte equação:
+      Podemos determinar o angulo B pela seguinte equação:
    
-     ![Teste de legenda de imagem](b_kaplan_medio.JPG)
+      ![Teste de legenda de imagem](b_kaplan_medio.JPG)
    
-     Podemos determianr o W pela seguinte equação:
+      Podemos determianr o W pela seguinte equação:
+    
+      ![Teste de legenda de imagem](w_kaplan_medio.JPG)
    
-     ![Teste de legenda de imagem](w_kaplan_medio.JPG)
-   
-     Assim, temos os triângulos de velocidades :
+      Assim, temos os triângulos de velocidades :
 
-     ![Teste de legenda de imagem](triangulos_kaplan_medio.JPG)
+      ![Teste de legenda de imagem](triangulos_kaplan_medio.JPG)
   
-   
-    -Para a turbina Francis temos as seguintes considerações:
+    + Para a turbina Francis temos as seguintes considerações:
   
-     +Vamos considerar saída meridional;
+      + Vamos considerar saída meridional;
    
-     +Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
+      + Diâmetro externo de 4.5 metros e diâmetro interno de 0.42 metros (d2 e d1 respectivamente);
    
-     +Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
+      + Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
    
-     +Vazão de 71,325 m³/s.
+      + Vazão de 71,325 m³/s.
    
-     +Largura de pá de 0.05 metros na base e 0.03 no topo (b1 e b2 respectivamente).
+      + Largura de pá de 0.05 metros na base e 0.03 no topo (b1 e b2 respectivamente).
    
-     Podemos determinar o u pela seguinte equação:
+      Podemos determinar o u pela seguinte equação:
    
-     ![Teste de legenda de imagem](u_francis.JPG)
+      ![Teste de legenda de imagem](u_francis.JPG)
    
-     Podemos determinar o Vt pela seguinte equação:
+      Podemos determinar o Vt pela seguinte equação:
    
-     ![Teste de legenda de imagem](Vt_francis.JPG)
+      ![Teste de legenda de imagem](Vt_francis.JPG)
    
-     Podemos determinar alfa pela seguinte equação:
+      Podemos determinar alfa pela seguinte equação:
    
-     ![Teste de legenda de imagem](alfa_francis.JPG)
+      ![Teste de legenda de imagem](alfa_francis.JPG)
 
-     Podemos determinar o V pela seguinte equação:
+      Podemos determinar o V pela seguinte equação:
    
-     ![Teste de legenda de imagem](V_absoluto_francis.JPG)
+      ![Teste de legenda de imagem](V_absoluto_francis.JPG)
 
-     Assim, o triângulo de velocidades para a turbina francis:
+      Assim, o triângulo de velocidades para a turbina francis:
 
-     ![Teste de legenda de imagem](triangulo_francis.JPG)
+      ![Teste de legenda de imagem](triangulo_francis.JPG)
 
-    -Para a turbina Pelton temos as seguintes considerações:
+    - Para a turbina Pelton temos as seguintes considerações:
  
-      +Vazão de 71,325 m³/s.
+      + Vazão de 71,325 m³/s.
  
-      +Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
+      + Rotação nominal de 720 rpm resultando em 10 pares de polos (n);
  
-      +B2 =10º
+      + B2 =10º
  
       Podemos determinar  o u pega seguinte equação:
  
@@ -180,7 +179,6 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
  
       ![Teste de legenda de imagem](triangulo_pelton.JPG)
  
-  
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
       Define-se por rotação específica, também chamada de coeficiente de forma da turbina, as rotações por minuto executadas pela turbina unidade, de uma turbina analisada e de qualquer outra que seja semelhante geometricamente a ela. Esse é um parâmetro adimensional, e pode ser relacionada a vazão ou a potência da máquina estudada.
