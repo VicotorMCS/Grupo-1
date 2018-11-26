@@ -257,10 +257,12 @@ Quanto às velocidades do rotor, as turbinas Francis podem ser:
   ![Teste de legenda de imagem](Hsm.JPG)
   
   Onde zb é a altitude do nível mínimo de jusante. Turbinas dispostas abaixo do nível de jusante são ditas afogadas, e, portanto, terão altura de sucção negativa. Vamos considerar que zb=0.
-  Temos que para a altura máima de sucção dessa turbina não há risco de cavitação.
   
+  Temos que para a altura máxima de sucção dessa turbina o NPSHdis é maior que o NPSHr podendo ocorre cavitação. 
   
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
+  
+  Temos que a potência isntalada é maior que 30 MW. Logo, a usina será classificada como grande central hidrelétrica. 
   
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 
