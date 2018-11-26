@@ -77,7 +77,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
       beta: Ângulo formado pela velocidade relativa W e a velocidade tangencial u, também chamado ângulo do escoamento relativo.  
   
-    - Para a turbina Kaplan temos as seguintes considerações:
+    + Para a turbina Kaplan temos as seguintes considerações:
 
      + Vamos considerar saída radial (fluxo axial);
    
